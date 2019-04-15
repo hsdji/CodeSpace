@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/dli_ios/Library/Developer/Shared/Documentation/DocSets/com.pfpersionalcocoapodsdoc.codespace.CodeSpace.docset
+Time: 2019-04-15 03:10:14 +0000
